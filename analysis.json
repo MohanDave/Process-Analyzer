@@ -1,0 +1,67 @@
+{
+    "sample_count": 10,
+    "scan_duration_seconds": 5,
+    "top_cpu": [
+        {
+            "average_cpu_percent": 3.1566015624999997,
+            "final_memory_mb": 322.5625,
+            "name": "Signal.exe",
+            "pid": 8908
+        },
+        {
+            "average_cpu_percent": 2.0275781250000002,
+            "final_memory_mb": 53.6953125,
+            "name": "msedge.exe",
+            "pid": 2308
+        },
+        {
+            "average_cpu_percent": 1.078125,
+            "final_memory_mb": 229.84765625,
+            "name": "msedge.exe",
+            "pid": 1976
+        }
+    ],
+    "top_memory_growth": [
+        {
+            "final_memory_mb": 129.671875,
+            "growth_mb": 129.671875,
+            "initial_memory_mb": 0.0,
+            "name": "msedgewebview2.exe",
+            "pid": 23180
+        },
+        {
+            "final_memory_mb": 124.859375,
+            "growth_mb": 124.859375,
+            "initial_memory_mb": 0.0,
+            "name": "msedgewebview2.exe",
+            "pid": 29076
+        },
+        {
+            "final_memory_mb": 110.078125,
+            "growth_mb": 110.078125,
+            "initial_memory_mb": 0.0,
+            "name": "ServiceHub.Host.AnyCPU.exe",
+            "pid": 29240
+        }
+    ],
+    "top_memory_usage": [
+        {
+            "memory_mb": 707.1171875,
+            "name": "Code.exe",
+            "pid": 4180,
+            "thread_count": 21
+        },
+        {
+            "memory_mb": 701.54296875,
+            "name": "devenv.exe",
+            "pid": 26548,
+            "thread_count": 130
+        },
+        {
+            "memory_mb": 520.5859375,
+            "name": "msedge.exe",
+            "pid": 26032,
+            "thread_count": 36
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+- [x] Edit types.hxx to remove in-class initializers from process_data
+- [x] Edit analyzer.cxx to add #include "pch.hxx" at the top and #include "analyzer.hxx"
+- [x] Edit json_writer.cxx to move #include "pch.hxx" to the top before #include "json_writer.hxx"
+- [x] Edit process_collector.cxx to move #include "pch.hxx" to the top before #include "process_collector.hxx"
+- [x] Build the project to verify errors are resolved

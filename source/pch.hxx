@@ -1,0 +1,14 @@
+#pragma once
+#include <Windows.h>
+#include <psapi.h>
+#include <tlhelp32.h>
+#include <iostream>
+#include <vector>
+#include <map>
+#include <string>
+#include <algorithm>
+#include <chrono>
+#include <thread>
+#include <fstream>
+//#include "..\..\..\..\..\..\vcpkg\packages\nlohmann-json_x64-windows\include\nlohmann\"
+#include <nlohmann/json.hpp>
